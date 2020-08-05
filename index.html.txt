@@ -9,7 +9,7 @@
     <ul>
         <li>Vagrant: Gerenciando máquinas virtuais</li>
         <li>Docker: Criando containers sem dor de cabeça</li>
-        <li>Ansible:toda hora eu tenho que alterar algo</li>
+        <li>Ansible</li>
 	<li>Kubernetes</li>	
  <li>Integração Contínua: Maturidade e Produtividade no Desenvolvimento de Software</li>
     </ul>
