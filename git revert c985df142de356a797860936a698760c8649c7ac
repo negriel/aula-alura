@@ -1,0 +1,79 @@
+[33mcommit c985df142de356a797860936a698760c8649c7ac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Gabriel Ribeiro <gabrielteoribeiro1@gmail.com>
+Date:   Tue Aug 4 21:48:45 2020 -0300
+
+    Alterando o código
+
+[33mcommit 79203886ad57e59864fee56f7dfb8fdb66e9299f[m[33m ([m[1;31mlocal/master[m[33m)[m
+Merge: e8b0fce db40f65
+Author: Gabriel Ribeiro <gabrielteoribeiro1@gmail.com>
+Date:   Mon Aug 3 22:37:46 2020 -0300
+
+    Merge branch 'master' of C:/Users/gabri/Desktop/servidor
+
+[33mcommit e8b0fce0ffb219b0a9b11a6668a3d197e58c08e7[m
+Author: Gabriel Ribeiro <gabrielteoribeiro1@gmail.com>
+Date:   Mon Aug 3 22:37:07 2020 -0300
+
+    alterando nome cursos Vagrant
+
+[33mcommit db40f6510f05b5f269d26c8069507dc31287c35e[m
+Merge: 98f120a 1ec6b47
+Author: Gabriel Ribeiro <gabrielteoribeiro1@gmail.com>
+Date:   Mon Aug 3 22:28:54 2020 -0300
+
+    Merge branch 'lista'
+
+[33mcommit 1ec6b47bffd090e72b488c44052b23cc0be1b240[m
+Author: Gabriel Ribeiro <gabrielteoribeiro1@gmail.com>
+Date:   Mon Aug 3 22:20:11 2020 -0300
+
+    Alterando nome curso Docker
+
+[33mcommit 98f120a929436d466971a5d6b3e9740d4892f67e[m
+Author: Gabriel Ribeiro <gabrielteoribeiro1@gmail.com>
+Date:   Mon Aug 3 22:07:04 2020 -0300
+
+    Alterando o nome curso Docker
+
+[33mcommit 7c68374a4ff5e7a77cfebf675b396162c191ca5b[m[33m ([m[1;32mtitulo[m[33m)[m
+Author: Gabriel Ribeiro <gabrielteoribeiro1@gmail.com>
+Date:   Mon Aug 3 22:14:21 2020 -0300
+
+    Adicionando letra maiúscula no título
+
+[33mcommit 682367250b248eafb5b83b74b78cc2d19953bdf5[m
+Author: Gabriel Ribeiro <gabrielteoribeiro1@gmail.com>
+Date:   Mon Aug 3 22:03:23 2020 -0300
+
+    Adicionando curso Kubernetes
+
+[33mcommit 8d105b0342e38aca4fd37ed93cf515f26a06f15e[m
+Author: Gabriel Ribeiro <gabrielteoribeiro1@gmail.com>
+Date:   Mon Aug 3 21:56:24 2020 -0300
+
+    Completando títudo da página
+
+[33mcommit 66733375c0f58ea5af0d03cc898e3d01890c9d84[m
+Author: Gabriel Ribeiro <gabrielteoribeiro1@gmail.com>
+Date:   Mon Aug 3 21:53:06 2020 -0300
+
+    Alterando título da página
+
+[33mcommit b7c94e9118ab7a24502dc5f77060d260f5c7c2a7[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Gabriel Ribeiro <gabrielteoribeiro1@gmail.com>
+Date:   Fri Jul 24 22:14:50 2020 -0300
+
+    Renomeando curso de Integração Contínua
+
+[33mcommit 2cb4daae5d80a37654cd9eb5c667d3e5fc6f1256[m
+Author: negriel <gabrielteoribeiro1@gmail.com>
+Date:   Fri Jul 24 21:01:18 2020 -0300
+
+    Acento adicionado no curso de Integração Contínua
+
+[33mcommit cb46334f9b5c1d408a6c5a794062dfcab519a80c[m
+Author: negriel <gabrielteoribeiro1@gmail.com>
+Date:   Fri Jul 24 20:53:59 2020 -0300
+
+    Criando arquivo index.html com lista de cursos
